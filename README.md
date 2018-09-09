@@ -1,1 +1,1 @@
-This project was built with React.js. Link bit.ly/jppscav
+This project was built with React.js. [Demo](http://bit.ly/jppscav)
